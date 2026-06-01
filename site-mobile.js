@@ -195,7 +195,7 @@ function MobilePubs({ P }) {
         }}>
           <div style={{ display: "grid", gridTemplateColumns: "90px 1fr", gap: 14 }}>
             <div style={{ width: 90, height: 64, overflow: "hidden", border: "1px solid " + P.rule, flexShrink: 0 }}>
-              <PubFigure id={p.figure} palette={P} />
+              <PubFigure src={p.figure} palette={P} />
             </div>
             <div>
               <div style={{ fontFamily: "ui-monospace, monospace", fontSize: 10.5, color: P.accent, marginBottom: 2 }}>

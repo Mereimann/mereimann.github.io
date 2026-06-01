@@ -300,7 +300,7 @@ function ClassicPubs({ P }) {
             background: open === i ? P.paperDeep : "transparent",
           }}>
             <div style={{ width: 138, height: 92, overflow: "hidden", border: "1px solid " + P.rule }}>
-              <PubFigure id={p.figure} palette={P} label={p.venue} />
+              <PubFigure src={p.figure} palette={P} />
             </div>
             <div>
               <div style={{ fontSize: 11.5, fontVariant: "small-caps", letterSpacing: "0.12em", color: P.accent, marginBottom: 2 }}>
