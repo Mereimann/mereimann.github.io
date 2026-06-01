@@ -185,7 +185,7 @@ const PUBS = [
     ],
     blurb:
       "Systematic review of dialogue managers in HRI — approach, domain, robot form, situatedness, modality.",
-    figure:    null, // e.g. "uploads/figures/iva23.png"
+    figure:    "uploads/figures/THRI24.jpg"
   },
   {
     year:      2023,
