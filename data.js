@@ -126,7 +126,7 @@ const PUBS = [
     links:     [{ label: "Thesis", href: "https://research.vu.nl/en/publications/speaking-the-same-language-spoken-capability-communication-in-hum/" }],
     blurb:
       "Defended September 2025. How spoken interaction can teach users what a conversational agent and robot can(not) do.",
-    figure:    "thesis",
+    figure:    "uploads/figures/thesis.png"
   },
   {
     year:      2025,
@@ -139,7 +139,7 @@ const PUBS = [
     links:     [{ label: "ACM", href: "https://dl.acm.org/doi/abs/10.1145/3570945.3607332" }],
     blurb:
       "Comparing proactive vs. reactive ways for a voice agent to communicate what it can actually do — and how this shapes users' mental models.",
-    figure:    "dialogue",
+    figure:    "uploads/figures/CUI25.png"
   },
   {
     year:      2025,
@@ -152,7 +152,7 @@ const PUBS = [
     links:     [{ label: "arXiv", href: "https://arxiv.org/abs/2508.10603" }],
     blurb:
       "Investigating motivations and barriers for users to report failed robot interactions using vignettes.",
-    figure:    "wild",
+    figure:    null,
   },
   {
     year:      2025,
@@ -169,7 +169,7 @@ const PUBS = [
     ],
     blurb:
       "120-participant in-person study in a restaurant scenario — proactive capability communication made interactions more conversational and more enjoyable.",
-    figure:    "restaurant",
+    figure:    "uploads/figures/HRI25.jpg",
   },
   {
     year:      2024,
@@ -184,7 +184,7 @@ const PUBS = [
     ],
     blurb:
       "Systematic review of dialogue managers in HRI — approach, domain, robot form, situatedness, modality.",
-    figure:    "survey",
+    figure:    null, // e.g. "uploads/figures/iva23.png"
   },
   {
     year:      2023,
@@ -202,7 +202,7 @@ const PUBS = [
     ],
     blurb:
       "Indicators identified during an in-the-wild user study to tell apart novelty-driven from need-driven interactions with a robot.",
-    figure:    "wild",
+    figure:    "uploads/figures/ICSR23.jpg",
   },
   {
     year:      2023,
@@ -215,7 +215,7 @@ const PUBS = [
     links:     [{ label: "ACM", href: "https://doi.org/10.1145/3570945.3607332" }],
     blurb:
       "A level-based scoring approach for task-oriented conversational agents to guide iterative improvements and predict interaction quality.",
-    figure:    "dialogue",
+    figure:    "uploads/figures/IVA23.jpg", // e.g. "uploads/figures/iva23.png"
   },
 ];
 
