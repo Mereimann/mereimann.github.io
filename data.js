@@ -123,6 +123,7 @@ const PUBS = [
     title:
       "Speaking the Same Language: Spoken Capability Communication in Human–Agent and Human–Robot Interaction",
     authors:   "M. M. Reimann",
+    pages:    "",
     links:     [{ label: "Thesis", href: "https://research.vu.nl/en/publications/speaking-the-same-language-spoken-capability-communication-in-hum/" }],
     blurb:
       "Defended September 2025. How spoken interaction can teach users what a conversational agent and robot can(not) do.",
