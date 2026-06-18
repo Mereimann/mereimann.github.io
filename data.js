@@ -67,7 +67,7 @@ const NEWS = [
   {
     date:    "2026 · Jun",
     tag:     "interview",
-    text:    "Tecosa interviewed me about my work.",
+    text:    "TECoSA interviewed me about my work.",
     youtube: "https://www.tecosa.center.kth.se/2026/06/17/introducing-tecosas-new-postdocs-welcome-merle-reimann/",
   },
   {
