@@ -59,11 +59,17 @@ const SITE = {
 //   date    — e.g. "2026 · Apr"
 //   tag     — short category label: "paper", "talk", "move", "milestone", "award"
 //   text    — one-sentence description
-//   youtube — (optional) YouTube URL, renders a button next to the text
+//   youtube — (optional) YouTube URL, renders a button next to the text (Or any other link)
 //
 // Items are shown newest-first. The first 5 are shown on the home page.
 // Add new items at the TOP of this array.
 const NEWS = [
+  {
+    date:    "2026 · Jun",
+    tag:     "interview",
+    text:    "Tecosa interviewed me about my work.",
+    youtube: "https://www.tecosa.center.kth.se/2026/06/17/introducing-tecosas-new-postdocs-welcome-merle-reimann/",
+  },
   {
     date:    "2026 · Apr",
     tag:     "talk",

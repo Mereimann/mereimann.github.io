@@ -269,7 +269,7 @@ function ClassicHome({ P }) {
                     color: P.accent, textDecoration: "none",
                     border: "1px solid " + P.accent + "66",
                     padding: "1px 7px", fontVariant: "small-caps", letterSpacing: "0.06em",
-                  }}>YouTube</a>
+                  }}>Link</a>
                 )}
               </span>
             </li>
